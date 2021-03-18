@@ -1,0 +1,75 @@
+- class_name: 不同世界 同一个我
+  class_desc: “海内存知己，天涯若比邻” ———— 以下是我的一些个人账号
+  link_list:
+    - name: Gmail
+      link: mailto:www.zhoujirui54@gmail.com
+      avatar: https://img-blog.csdnimg.cn/20210304191942498.png
+      descr: 谷歌邮箱
+    - name: Foxmail
+      link: mailto:www.zjr1846334075@foxmail.com
+      avatar: https://img-blog.csdnimg.cn/20210304191942504.png
+      descr: FOX邮箱
+    - name: Facebook
+      link: https://www.facebook.com/profile.php?id=100064024149318
+      avatar: https://img-blog.csdnimg.cn/20210304191942502.png
+      descr: 即时聊天平台
+    - name: Twitter
+      link: https://twitter.com/JERRYZ57260894
+      avatar: https://img-blog.csdnimg.cn/20210304191942439.png
+      descr: 社交分享平台
+    - name: Instagram
+      link: https://www.instagram.com/zhoujirui54/
+      avatar: https://img-blog.csdnimg.cn/20210304191942576.png
+      descr: 图片分享平台
+    - name: 微博
+      link: https://weibo.com/u/6001560045
+      avatar: https://img-blog.csdnimg.cn/20210304191942509.png
+      descr: 中文社交分享平台
+    - name: Youtube
+      link: https://www.youtube.com/channel/UC4oTqdDf3cIJa_J-PulSypQ
+      avatar: https://img-blog.csdnimg.cn/20210304191942496.png
+      descr: 视频网站
+    - name: bilibili
+      link: https://space.bilibili.com/505277890
+      avatar: https://img-blog.csdnimg.cn/20210304191942556.png
+      descr: 中文视频网站
+    - name: Steam
+      link: https://steamcommunity.com/profiles/76561199142490598/
+      avatar: https://img-blog.csdnimg.cn/20210304191942395.png
+      descr: 全球最大游戏社区
+    - name: 喜马拉雅
+      link: https://www.ximalaya.com/zhubo/180112730/
+      avatar: https://img-blog.csdnimg.cn/20210304191942441.png
+      descr: 音频网站
+    - name: 知乎
+      link: https://www.zhihu.com/people/JERRY-Z-J-R
+      avatar: https://img-blog.csdnimg.cn/20210304191942443.png
+      descr: 中文高质量问答社区
+    - name: 豆瓣
+      link: https://www.douban.com/people/JERRY-Z-J-R/
+      avatar: https://img-blog.csdnimg.cn/20210304191942506.png
+      descr: 书影音社交平台
+    - name: GitHub
+      link: https://github.com/JERRY-Z-J-R
+      avatar: https://img-blog.csdnimg.cn/20210304202036885.png
+      descr: 代码仓库管理分享平台
+    - name: Gitee
+      link: https://gitee.com/JERRY-Z-J-R
+      avatar: https://img-blog.csdnimg.cn/20210304191942503.png
+      descr: 代码仓库管理分享平台
+    - name: LeetCode
+      link: https://leetcode-cn.com/u/jerry-z-j-r/
+      avatar: https://img-blog.csdnimg.cn/20210304191942500.png
+      descr: 算法编程平台
+    - name: CSDN
+      link: https://blog.csdn.net/D_si_God
+      avatar: https://img-blog.csdnimg.cn/20210304191942497.png
+      descr: 中文技术博客平台
+    - name: 博客园
+      link: https://www.cnblogs.com/JERRY-Z-J-R/
+      avatar: https://img-blog.csdnimg.cn/20210304192358800.png
+      descr: 中文技术博客平台
+    - name: ProcessOn
+      link: https://www.processon.com/u/5f81209007912906db1b6d03
+      avatar: https://img-blog.csdnimg.cn/20210304191942385.png
+      descr: 在线协作平台
